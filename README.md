@@ -16,7 +16,7 @@ A personal portfolio website built using HTML and CSS as part of the Syntecxhub 
 - Google Fonts (Playfair Display + Inter)
 
 ## Live Preview
-(paste your GitHub Pages link here once deployed)
+(https://nandhitharatan.github.io/Syntecxhub_PortfolioWebsite/)
 
 ## Author
 Ratan Nandhitha
